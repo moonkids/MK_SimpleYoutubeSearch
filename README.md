@@ -6,4 +6,4 @@ Qiita：SwiftでYoutube検索【メモ】
 
 http://qiita.com/moonkids/items/ce2e26718111ed0e05e6
 
-__※必ず「ViewControllerForCollectionView.swift」「ViewControllerForCollectionView.swift」のAPI Keyを自分のKeyに書き換えてからお試しください__
+__※「[ViewControllerForCollectionView.swift](https://github.com/moonkids/MK_SimpleYoutubeSearch/blob/master/MK_SimpleYoutubeSearch/ViewControllerForTableView.swift)」「[ViewControllerForCollectionView.swift](https://github.com/moonkids/MK_SimpleYoutubeSearch/blob/master/MK_SimpleYoutubeSearch/ViewControllerForCollectionView.swift)」のAPI Keyを自分のKeyに書き換えてからお試しください__
