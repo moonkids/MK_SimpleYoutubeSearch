@@ -13,7 +13,7 @@ class ViewControllerForCollectionView: UIViewController,UICollectionViewDataSour
     @IBOutlet weak var collectionView: UICollectionView!
     var objects:NSArray! = []
 
-    let API_KEY:String = "AIzaSyCBNx_W4ULaoBnr830KXVTERxnDu91lRu0"
+    let API_KEY:String = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
     
     // MARK: - UISearchBar Delegate
     
